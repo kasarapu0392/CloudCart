@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+
+# React / Node
+node_modules/
+dist/
+
+# Go
+bin/
+*.exe
+*.test
+*.out
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
